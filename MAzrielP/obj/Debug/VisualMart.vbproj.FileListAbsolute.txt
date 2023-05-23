@@ -1,0 +1,42 @@
+E:\VB\VisualMart\MAzrielP\bin\Debug\MAzrielP.exe.config
+E:\VB\VisualMart\MAzrielP\bin\Debug\MAzrielP.exe
+E:\VB\VisualMart\MAzrielP\bin\Debug\MAzrielP.pdb
+E:\VB\VisualMart\MAzrielP\bin\Debug\MAzrielP.xml
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.login.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.Pelanggan.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.gantipassword.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.Form5.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.Resources.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.user.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\VisualMart.vbproj.GenerateResource.Cache
+E:\VB\VisualMart\MAzrielP\obj\Debug\MAzrielP.exe
+E:\VB\VisualMart\MAzrielP\obj\Debug\MAzrielP.xml
+E:\VB\VisualMart\MAzrielP\obj\Debug\MAzrielP.pdb
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.home.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.pembelian.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.barang.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.kelompok.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.pemasok.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.satuan.resources
+E:\VB\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.penjualan.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\bin\Debug\MAzrielP.exe.config
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\MAzrielP.exe
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\MAzrielP.xml
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\MAzrielP.pdb
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\bin\Debug\MAzrielP.exe
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\bin\Debug\MAzrielP.pdb
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\bin\Debug\MAzrielP.xml
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.barang.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.pemasok.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.kelompok.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.login.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.home.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.gantipassword.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.pelanggan.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.pembelian.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.penjualan.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.satuan.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\WindowsApplication1.user.resources
+C:\Users\Big Nigga Dude\Pictures\VisualMart\MAzrielP\obj\Debug\VisualMart.vbproj.GenerateResource.Cache
